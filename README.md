@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Este es un repositorio de prueba del modulo 2 de Henry
+Este es un ejemplo de clonacion de commit desde github a pc local.
